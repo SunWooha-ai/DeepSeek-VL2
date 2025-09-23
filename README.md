@@ -1,7 +1,1 @@
-# DeepSeek-VL2
-
-Original content...
-
----
-
-Related project: [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
+IyBEZWVwU2Vlay1WTDIKClRoaXMgaXMgdGhlIHJlYWRtZSBmb3IgRGVlcFNlZWstVkwyIHByb2plY3QuCgpSZWxhdGVkIHByb2plY3Q6IFtRd2VuMi41LVZMXShodHRwczovL2dpdGh1Yi5jb20vUXdlbkxNL1F3ZW4yLjUtVkwpCg==
